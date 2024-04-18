@@ -1,0 +1,9 @@
+{
+  "currencies": [
+    { "text" : "British Pounds" },
+    { "text" : "Australian Dollars" },
+    { "text" : "Euros" },
+    { "text" : "New Zealand Dollars" },
+    { "text" : "US Dollars" }
+  ]
+}
